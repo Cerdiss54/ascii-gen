@@ -1,0 +1,18 @@
+# Compiled binaries and object files
+*.exe
+*.o
+*.obj
+*.out
+*.pdb
+*.ilk
+
+# Build directories
+build/
+cmake-build-*/
+.vs/
+.vscode/
+
+# Generated ASCII output files
+ascii_output.txt
+*.ans
+result.txt
